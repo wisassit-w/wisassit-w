@@ -3,7 +3,7 @@
 I'm an Information Technology student at Hatyai University, passionate about building full-stack web applications and developing system optimization tools.
 
 - 💻 Currently focusing on **Next.js, React, and C#**
-- 🎮 Building tools for PC game performance (FiveM) and Windows debloating
+- 🎮 Building tools for PC game performance and Windows debloating
 - 🚀 Fast learner, result-oriented, and open to feedback
 
 ### 🛠️ Tech Stack
