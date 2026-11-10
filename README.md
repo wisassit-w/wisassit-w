@@ -13,7 +13,6 @@ Software & Web Developer specializing in **Full-Stack Web**, **C# System Optimiz
 - 🤖 [**idontknow-discord-bot**](https://github.com/wisassit-w/idontknow-discord-bot) — Automated E-Commerce & SlipOK verification bot built with Node.js.
 - 💾 [**pc-tune-backup**](https://github.com/wisassit-w/pc-tune-backup) — C# utility to backup/restore Windows performance & FiveM profiles.
 - ⚡ [**setting-niran-v2**](https://github.com/wisassit-w/setting-niran-v2) — FiveM PvP performance tuning suite (0.5ms Timer Res & TCP Latency).
-- 🎀 [**mumin-sanrio-tune**](https://github.com/wisassit-w/mumin-sanrio-tune) — Custom GUI network acceleration & cache cleaner utility.
 
 ---
 
