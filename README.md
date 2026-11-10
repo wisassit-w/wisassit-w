@@ -13,5 +13,7 @@ I'm an Information Technology student at Hatyai University, passionate about bui
 **Tools:** Git, VS Code, Cursor, PowerShell  
 
 ### 📊 GitHub Stats
+<!-- ปิดการแสดงผลกราฟชั่วคราว รออัปโหลดโค้ดขึ้น Repo แล้วค่อยลบเครื่องหมาย <!- - และ - -> ออก
 ![Wisassit's GitHub stats](https://github-readme-stats.vercel.app/api?username=wisassit-w&show_icons=true&theme=tokyonight)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=wisassit-w&layout=compact&theme=tokyonight)
+-->
