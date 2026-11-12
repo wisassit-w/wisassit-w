@@ -1,26 +1,23 @@
 ### Hi, I'm Wisassit Winson (Boom) 👋
 
-Software & Web Developer specializing in **Full-Stack Web**, **C# System Optimization Utilities**, and **Automation Systems**.
-
-- 🎓 IT Student @ Hatyai University
-- 💻 Core Focus: **Next.js · React · Node.js · C#**
-- ⚡ Specialization: Low-Latency Tuning, Registry Optimization & Discord E-Commerce Bots
+3rd-year Information Technology student at Hatyai University interested in **Web Development**. Currently practicing full-stack web development through coursework and personal projects, and eager to learn real-world workflows.
 
 ---
 
-### 📌 Featured Repositories
+### 📌 Projects
 
-- 🤖 [**idontknow-discord-bot**](https://github.com/wisassit-w/idontknow-discord-bot) — Automated E-Commerce & SlipOK verification bot built with Node.js.
-- 💾 [**pc-tune-backup**](https://github.com/wisassit-w/pc-tune-backup) — C# utility to backup/restore Windows performance & FiveM profiles.
-- ⚡ [**setting-niran-v2**](https://github.com/wisassit-w/setting-niran-v2) — FiveM PvP performance tuning suite (0.5ms Timer Res & TCP Latency).
+- 🌐 [**campus-market**](https://github.com/wisassit-w/campus-market) — Student-to-student C2C marketplace web app built with PHP & MySQL.
+- 🤖 [**idontknow-discord-bot**](https://github.com/wisassit-w/idontknow-discord-bot) — Automated Discord shop and order management bot built with Node.js.
+- 🎮 **MoneyPixel** *(In Development)* — Personal finance tracking web app built with Next.js, React, Tailwind CSS, Prisma, and MySQL.
 
 ---
 
-### 🛠 Tech Stack
+### 🛠 Tech Stack & Tools
 
-- **Languages:** JavaScript · TypeScript · C# · C++ · Python
-- **Web Stack:** Next.js · React · Node.js · Express · Tailwind CSS
-- **Database & Tools:** MySQL · Prisma ORM · Git · VS Code · PowerShell
+- **Frontend:** HTML · CSS · Tailwind CSS · JavaScript · TypeScript · React · Next.js
+- **Backend:** Node.js · Express · PHP
+- **Database:** MySQL · Prisma
+- **Tools:** Git · GitHub · VS Code · Cursor · Claude
 
 ---
 
