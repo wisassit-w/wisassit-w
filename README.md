@@ -1,6 +1,6 @@
 ### Hi, I'm Wisassit Winson (Boom) 👋
 
-3rd-year Information Technology student at Hatyai University interested in **Web Development**. Currently practicing full-stack web development through coursework and personal projects, and eager to learn real-world workflows.
+IT student and Full-Stack Web Developer based in Thailand. Focused on building functional web apps using Next.js, React, Node.js, and PHP.
 
 ---
 
