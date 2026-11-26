@@ -6,9 +6,9 @@ IT student and Full-Stack Web Developer based in Thailand. Focused on building f
 
 ### 📌 Projects
 
+- 🎮 [**MoneyPixel**](https://github.com/wisassit-w/moneypixel) ([Live Demo](https://moneypixel.vercel.app/)) — Personal finance tracking web app built with Next.js, React, Tailwind CSS, Prisma, MySQL, and Google Gemini AI.
 - 🌐 [**campus-market**](https://github.com/wisassit-w/campus-market) — Student-to-student C2C marketplace web app built with PHP & MySQL.
 - 🤖 [**idontknow-discord-bot**](https://github.com/wisassit-w/idontknow-discord-bot) — Automated Discord shop and order management bot built with Node.js.
-- 🎮 **MoneyPixel** *(In Development)* — Personal finance tracking web app built with Next.js, React, Tailwind CSS, Prisma, and MySQL.
 
 ---
 
